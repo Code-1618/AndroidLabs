@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="button_text">Je suis un bouton !</string>
+
+    <!-- Lab 2 -->
+    <string name="lab2_label">J\'adore Android</string>
+    <string name="lab2_switch">Activer/désactiver</string>
+    <string name="lab2_button">Appuyez ici</string>
+    <string name="lab2_checkbox">Cochez cette case !</string>
+    <string name="lab2_hint">J\'adore Android</string>
+    <string name="toast_message">Le libellé a été mis à jour.</string>
+    <string name="checkbox_status">La case est maintenant %1$s</string>
+    <string name="checkbox_on">cochée</string>
+    <string name="checkbox_off">décochée</string>
+    <string name="undo">Annuler</string>
+    <string name="flag_description">Drapeau français</string>
+</resources>
