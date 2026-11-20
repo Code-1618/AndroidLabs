@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         WindowCompat.enableEdgeToEdge(getWindow());
-        setContentView(R.layout.activity_main_linear);
+        setContentView(R.layout.activity_main_grid);
 
         ViewCompat.setOnApplyWindowInsetsListener(
                 findViewById(R.id.main), (v, insets) -> {
